@@ -15572,5 +15572,10 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323846&idx=1&sn=ce9854e060a565ed66030f32df82d949": "实战漏洞报告合集首发，赏金已超万元",
     "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908401&idx=1&sn=e5f24f835066c260946809fee62a5325": "[AI-VA-20250626-001] - Gogs符号链接处理不当导致远程命令执行",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484900&idx=1&sn=987e33d854d2403c3a6e423aa4282b73": "【复现】Gogs 远程命令注入漏洞风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484900&idx=1&sn=987e33d854d2403c3a6e423aa4282b73": "【复现】Gogs 远程命令注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494922&idx=1&sn=dae4e1652fe33e93bb6fd09926535156": "抖音生活服务专测上线！单个漏洞奖金15万元！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494116&idx=1&sn=5076fd18e8149cf5d4485f4282758220": "思科修复了可能导致 root 级远程代码执行的关键 ISE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527416&idx=1&sn=d20cead60a11511749fe247e9b5294e1": "病毒入侵？漏洞暴露？腾讯 iOA 一键封杀安全威胁！",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489137&idx=1&sn=e53ef16afa60551407e420378ec99419": "漏洞预警|兄弟牌（Brother）打印机曝八个新漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486040&idx=1&sn=20d594db2d2ff7ffb4d531548bb7a1f0": "【安全风险通告】DataEase远程代码执行漏洞 (CVE-2025-49001、CVE-2025-49002)"
 }
