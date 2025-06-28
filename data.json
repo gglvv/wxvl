@@ -15600,5 +15600,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485168&idx=1&sn=ccdbf7b18e4e2300a6fa0d4f9aafd306": "亲测AIFuzzing与XiaYue逻辑漏洞检测插件的区别：AI赋能的安全检测工具优势解析",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488952&idx=1&sn=ec5e934481be8b9760d4cf6f099da8d7": "远程 Windows 凭据转储与 Shadow Snapshots（卷影副本）漏洞利用与检测",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323993&idx=4&sn=a39d5181504a9caeda8bbcff989ef625": "IBM WebSphere应用服务器曝高危远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323993&idx=4&sn=a39d5181504a9caeda8bbcff989ef625": "IBM WebSphere应用服务器曝高危远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=3&sn=a5a5c6016886294629d6e3236bd45cf4": "CVE-2025-33073｜Windows SMB权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788736&idx=1&sn=d928c3059c6a5c78864232be6184cb05": "Open VSX 漏洞重创扩展生态，数百万开发者面临供应链劫持",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487516&idx=1&sn=0022a5911bd065644f71a5821e3a10df": "WinRAR 缺陷（CVE-2025-6218）：通过目录遍历执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=2&sn=fece77b24bc457dda583f0c57bc5b5ec": "CVE-2025-36038｜WebSphere Application Server远程代码执行漏洞"
 }
