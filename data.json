@@ -15611,5 +15611,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492693&idx=1&sn=f912973994e379d3c80bed9b2187214b": "中山大学｜FORGE：驱动大语言模型自动化构建大规模智能合约漏洞数据集",
     "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486555&idx=1&sn=28d1773e6d7afa6a083204bcfa8f7416": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531421&idx=2&sn=1d5a42294204b71b9c78d6eeb6e30e77": "区块幽灵：以太坊共识漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324007&idx=3&sn=ab457bbc0253d3a893c417159d3e4d10": "748款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士等品牌"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324007&idx=3&sn=ab457bbc0253d3a893c417159d3e4d10": "748款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士等品牌",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506847&idx=1&sn=4272d6c554696334581739689d4dadd8": "破解 JWT：漏洞赏金猎人指南（第六部分",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NDI0NjMxMQ==&mid=2247483874&idx=1&sn=8d3f7ea725620fc6df9225b77fcb9d28": "记一次某开源组件反序列化漏洞原理分析，注入内存马getshell"
 }
