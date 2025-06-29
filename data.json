@@ -15614,5 +15614,10 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324007&idx=3&sn=ab457bbc0253d3a893c417159d3e4d10": "748款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士等品牌",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506847&idx=1&sn=4272d6c554696334581739689d4dadd8": "破解 JWT：漏洞赏金猎人指南（第六部分",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NDI0NjMxMQ==&mid=2247483874&idx=1&sn=8d3f7ea725620fc6df9225b77fcb9d28": "记一次某开源组件反序列化漏洞原理分析，注入内存马getshell"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NDI0NjMxMQ==&mid=2247483874&idx=1&sn=8d3f7ea725620fc6df9225b77fcb9d28": "记一次某开源组件反序列化漏洞原理分析，注入内存马getshell",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=2&sn=0bdd6716511352a19ae6a051668361dd": "思科 ISE 漏洞允许远程攻击者执行恶意命令",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490817&idx=1&sn=ed22afb84906586ab151f012d376f7b3": "若依Vue漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070405&idx=1&sn=afb3be158a42d504cf141b47db4215dc": "【安全圈】兄弟等742款打印机被曝存在安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497783&idx=1&sn=f49fc7ca0cb8d8027c5bcdb60b1a2ac4": "$10,000的RCE！​​",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=1&sn=83ab8c76ec0db3d5080561c57c2fb5f3": "CVE-2025-4123｜Grafana SSRF漏洞（POC）"
 }
