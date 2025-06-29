@@ -15606,5 +15606,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487516&idx=1&sn=0022a5911bd065644f71a5821e3a10df": "WinRAR 缺陷（CVE-2025-6218）：通过目录遍历执行远程代码",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=2&sn=fece77b24bc457dda583f0c57bc5b5ec": "CVE-2025-36038｜WebSphere Application Server远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=1&sn=6155e41bcc07bb70bcdcdd88cc88d8de": "思科提醒注意 ISE 中的满分 RCE 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节",
+    "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483975&idx=1&sn=d8c9debe6b2aa8ce6465872cba70a70e": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)"
 }
