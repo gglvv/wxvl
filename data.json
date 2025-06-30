@@ -15631,5 +15631,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490132&idx=1&sn=07ba6c193632c29209e311fae62797fa": "【代码审计】某产品UserCreateService存在任意用户添加漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499979&idx=1&sn=e62c7b512a2e3f57f702c815e19235da": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324021&idx=3&sn=758ad58f02fcc6eda8eddbd10a0dcc4c": "思科两处高危RCE漏洞可致未授权获取root权限"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324021&idx=3&sn=758ad58f02fcc6eda8eddbd10a0dcc4c": "思科两处高危RCE漏洞可致未授权获取root权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=2&sn=4b273b1dae929c905847eb75c817bbbc": "【漏洞通告】MIB3安全启动过程的旁路",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252114&idx=1&sn=18ba1076a6a1ad2035075708a6da3c91": "CISA警告D-Link路由器路径遍历漏洞正被积极利用，无补丁可用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=3&sn=31e070c34491bf08085a7d13141c13cb": "【漏洞通告】MIB3娱乐信息系统的网络服务中的命令注入"
 }
