@@ -15651,5 +15651,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506878&idx=1&sn=646896e03d930c8c4ed7eb5db4c3f087": "NASA开放公开的漏洞赏金计划",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=2&sn=84fbc29915f49915f2acbdee7c978011": "【已复现】DataEase 多个远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324036&idx=3&sn=986b86eed49f12e022d02e8a20274ca8": "群晖ABM漏洞泄露全局客户端密钥，危及所有微软365租户",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492309&idx=1&sn=971b6609659bdf8e5a1c6cd2c264177b": "SRC 视角下：渗透测试中的逻辑漏洞思路博弈"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492309&idx=1&sn=971b6609659bdf8e5a1c6cd2c264177b": "SRC 视角下：渗透测试中的逻辑漏洞思路博弈",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496737&idx=1&sn=370c593f1bce328f065b2ee3561a83bb": "【论文速读】| FuncVul——基于LLM与代码块的高效函数级漏洞检测模型",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507825&idx=1&sn=c8163fc109580e2fd0b793a34118ae75": "微步情报局再次发现DataEase存在多个高危漏洞，可实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503538&idx=1&sn=5439ec7c9b1446ac237be77feab8fcd0": "【已复现】WinRAR 目录穿越漏洞(CVE-2025-6218)安全风险通告"
 }
