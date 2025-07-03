@@ -15681,5 +15681,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=1&sn=1f824c99f63b3324ed70f4623df29c43": "Chrome 0 Day 在野外被利用以执行任意代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b": "Nessus严重漏洞允许覆盖任意本地系统文件",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492002&idx=1&sn=b6880866102aa41c8fbb56a6d73544e8": "Optilink upgrade.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487449&idx=2&sn=dcd17b82a2b767da4a0245d2549452fc": "如何在日常渗透中实现通杀漏洞挖掘"
 }
