@@ -15708,5 +15708,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245177&idx=2&sn=6683aa774f604f52b1f4752b54de0147": "前沿 | 基于人工智能的漏洞挖掘应用实践探讨",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531579&idx=1&sn=8aeb22f983426b00e76b8eb31fada17a": "我如何通过 NGINX Off-By-Slash 配置错误获得远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=2&sn=6fb767fa5ebe3a22a7b0a961be3c6df2": "CISA提醒注意已遭利用的两个 TeleMessage 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=3&sn=1ef1f6e0a656c9697273135ef8bdf2d5": "新型僵尸网络利用四信工业路由器漏洞发动DDoS攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488231&idx=1&sn=c07da2830aebc1cfa6f73c23b3ced056": "护网行动进行时！攻击队武器库新增10大高危漏洞，蓝队紧急加固！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483878&idx=1&sn=161132aec1e0f816d558679852c2866c": "Notepad++提权漏洞POC及一键部署环境【CVE-2025-49144】",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550744&idx=1&sn=2af56c38b8479339ec6a8b2406b7c962": "某前后端分离BI低代码通用漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=1&sn=64834d89e32ec56e08e86ecd3aafc82b": "攻击者通过滥用暴露的 Java 调试线协议 (JDWP) 接口实现远程代码执行，部署挖矿",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651733657&idx=1&sn=19e1e9619992414367d2cc34dba5c3dc": "Google Chrome V8类型混淆漏洞来袭，启明星辰提供解决方案",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487623&idx=1&sn=1d8479b2fa702e596e21d8f2015d7ac4": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727846792&idx=1&sn=622536f639aa4976d47ddfc18e65de3e": "LazyValue下的Parcel漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515053&idx=1&sn=f675480d14e309b4e61f55e56bd32b66": "蓝牙零日漏洞大揭秘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546926&idx=1&sn=2a11763313310746d959b04443129b09": "【微软云】身份曝【严重漏洞】：对低级别用户过度授权，导致客户VPN密钥泄露"
 }
