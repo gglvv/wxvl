@@ -15719,5 +15719,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487623&idx=1&sn=1d8479b2fa702e596e21d8f2015d7ac4": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727846792&idx=1&sn=622536f639aa4976d47ddfc18e65de3e": "LazyValue下的Parcel漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515053&idx=1&sn=f675480d14e309b4e61f55e56bd32b66": "蓝牙零日漏洞大揭秘",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546926&idx=1&sn=2a11763313310746d959b04443129b09": "【微软云】身份曝【严重漏洞】：对低级别用户过度授权，导致客户VPN密钥泄露"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546926&idx=1&sn=2a11763313310746d959b04443129b09": "【微软云】身份曝【严重漏洞】：对低级别用户过度授权，导致客户VPN密钥泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzcxMDQwMg==&mid=2247487105&idx=1&sn=fc2288177dd8544ef2ccab2411d6bd15": "从路径遍历到远程命令执行（RCE）",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485867&idx=1&sn=374e41a76fcb63fae76856d2d879f26b": "思科 Unified CM 中存在严重漏洞，可通过静态凭证获取 Root 权限"
 }
