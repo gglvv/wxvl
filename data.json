@@ -15737,5 +15737,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489743&idx=1&sn=48f097e5b2792e8b696abd83ed3b00a0": "CVE-2025-6218 Poc复现及1Day研究",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457389175&idx=1&sn=b8a393aea1447997a2db250a2aefcf59": "不容小觑的威胁：CVE-2025-32463 Linux提权漏洞，轻松利用却要紧急修复",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795636&idx=1&sn=000d2e7e424e164f95c2e9ad3f81c1e4": "“CitrixBleed 2”漏洞 PoC 被公开",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=3&sn=85a8466b2d752154d97df30291f0c2f8": "漏洞预警 | Linux sudo本地提权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=3&sn=85a8466b2d752154d97df30291f0c2f8": "漏洞预警 | Linux sudo本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550746&idx=1&sn=7e546ceb9adf9b333ab5ef6388d86387": "EDUSRC | 证书站小程序漏洞挖掘思路及方法",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900878&idx=1&sn=0628d7321b119b7ef88e12c8bf037f86": "深度剖析CVE-2025-49596：一次网页浏览，如何让你的AI开发环境彻底沦陷？"
 }
