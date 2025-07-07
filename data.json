@@ -15747,5 +15747,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070525&idx=1&sn=7b6337e89711c9e9f413dd1cb303bd76": "【安全圈】Linux“sudo”严重漏洞：任何用户均可接管系统",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484697&idx=1&sn=bccb3f58aceadd62fc61a61db4903ddb": "2025挖漏洞给报酬的网站汇总，兼职副业3天收益2k（非常详细）从零基础到精通，收藏这篇就够了！"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484697&idx=1&sn=bccb3f58aceadd62fc61a61db4903ddb": "2025挖漏洞给报酬的网站汇总，兼职副业3天收益2k（非常详细）从零基础到精通，收藏这篇就够了！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497815&idx=1&sn=2e590228585b24abbfe047e87ea21252": "赏金15000美元的 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463225&idx=1&sn=9e7ac9b4c67a54c61ca683961a676c1a": "信息安全漏洞月报（2025年6月）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "Redis曝高危漏洞，认证客户端可致服务中断",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486235&idx=1&sn=d6ca3209142d51b045d6529d1f556d48": "某供应商运维安全管理系统存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "Web服务器面临认证前RCE与管理员接管风险，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651135885&idx=1&sn=6f4e0657e70df2010200f1f0fe53b0ec": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0608-0621）"
 }
