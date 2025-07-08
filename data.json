@@ -15778,5 +15778,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487489&idx=1&sn=3a6063b4e6c95891b1a17fb5e1ff0bc1": "众测实战 | 一次正负叠加导致的支付漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900881&idx=1&sn=8830ee98683a574b4f6ba828fc40e84e": "CVSS 10.0！思科犯下“低级但致命”的错误，统一通信管理器曝出硬编码root密码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497828&idx=1&sn=3edecf58ac99722cc6db88b124495ed3": "SRC漏洞挖掘之“嫂子开门，我是我哥”"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497828&idx=1&sn=3edecf58ac99722cc6db88b124495ed3": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=2&sn=0f0fc3ed9e30015967af0b71ee9eb511": "【已复现】Redis hyperloglog存在远程代码执行漏洞（CVE-2025-32023）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488244&idx=1&sn=01a64335c638438a54a0ead3790c9789": "HW（2025-7-8）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573910&idx=2&sn=ca0beb1967b43d9d39bca8eeb7715732": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486239&idx=1&sn=8e885ab19cba7e27c6d24a33dcb6de17": "某堡垒机 set_port 远程命令执行漏洞"
 }
