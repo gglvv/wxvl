@@ -15832,5 +15832,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547132&idx=1&sn=cd484270f0cd9ed5dc17fdeafb2e76dd": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493241&idx=1&sn=0f2c4d9cbd033f0a5a9761c270351162": "最新Nessus2025.7.10版本主机漏洞扫描∕探测工具Windows∕Linux下载",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324666&idx=3&sn=ee5583eca517c2e940909cfa2b32ad1e": "Git项目修复三大漏洞：远程代码执行、任意文件写入与缓冲区溢出"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324666&idx=3&sn=ee5583eca517c2e940909cfa2b32ad1e": "Git项目修复三大漏洞：远程代码执行、任意文件写入与缓冲区溢出",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503591&idx=1&sn=d2d745e2f4f838c527281205db85b1b4": "【已复现】泛微E-cology9 前台SQL注入漏洞(QVD-2025-26680)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490408&idx=2&sn=1ab2864da7b5b373a007528c90bfc21f": "【高危漏洞预警】泛微E-cology9 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324737&idx=1&sn=8f0843cf1d51ac50bd1eae4a5f0e4c87": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486256&idx=1&sn=e695f0ac5253981b19b466c133364824": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程"
 }
