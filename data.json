@@ -15812,5 +15812,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490463&idx=1&sn=1b48b2ce233b26f5a8ec414b28fce49b": "【已复现】泛微E-cology9存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486516&idx=1&sn=8ce41df1c1c32eddb5762dc6c362a85b": "新一代SQL注入检测技术，小白也能轻松挖到漏洞！",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484898&idx=1&sn=8398d7bfb2fa31deb03c63d073a09293": "【漏洞复现】汉王EFaceGo upload.do 任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493676&idx=2&sn=d36ca7a2cbbe4c946eed6fc5114a281e": "漏洞预警 | 爱数AnyShare智能内容管理平台命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486099&idx=1&sn=cd70d35575862813b29e724bd02777a8": "【0day】Telegram私密群组∕频道未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=1&sn=fa39dab26fa7889aa2d78f6bfc2cc882": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具"
 }
