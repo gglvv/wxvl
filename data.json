@@ -15862,5 +15862,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488451&idx=1&sn=a4ca5878e9febbc5fb079a6dbd862c55": "从Top20开源组件漏洞浅谈开源安全治理困境",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485271&idx=1&sn=9bd6f0e52177bd802a736f7c9ed39a53": "123456当密码？！麦当劳AI招聘工具McHire漏洞导致6400万求职者数据泄露",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=1&sn=3cf79ed603597648e4ebc012f1dd387d": "【暴】麦当劳招聘平台 | 安全漏洞致 6400 万份求职申请信息暴露",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484917&idx=1&sn=af0cf86fe3943f11fba7eb4847c0d2da": "【复现】契约锁文件写入致远程代码执行漏洞风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484917&idx=1&sn=af0cf86fe3943f11fba7eb4847c0d2da": "【复现】契约锁文件写入致远程代码执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493023&idx=1&sn=33bd188ed20d88bbe2bf0b5dc2b834dd": "某211高校从一个文档到十八万条sfz泄露和命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492110&idx=1&sn=5c85ce32f439145754b97e4e8aaafbc6": "锐捷EWEB路由器 ipam.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690866&idx=1&sn=4a721e43a083294d91530414cbf72330": "0046.从图片上传到账户接管——真实渗透测试中上传、存储和 CORS 漏洞的串联",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521456&idx=1&sn=205c24044197361741632e9f3e4f57e4": "JS扫描与漏洞挖掘利器推荐—Rotor Goddess"
 }
