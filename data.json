@@ -15890,5 +15890,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492236&idx=1&sn=8d8564b4b92621d0ce1783198a801077": "手把手教你如何挖洞：CVE-2025-25257 Fortinet FortiWeb 匿名 SQL 注入漏洞动态调试实战",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489439&idx=1&sn=2a7b9da658dc0f6481886eef74bd95ac": "日志中的秘密：利用一个存在 20 年的 NTFS 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492127&idx=1&sn=b5e66de4850a89116285d82851f0aaa8": "金蝶云星空 UserService.SaveUserPassport.common.kdsvc 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493250&idx=1&sn=cd317dbe8c78874a262dce46efcc5cc3": "WEB安全盲点 挖洞中的敏感文件泄漏漏洞与利用手法|挖洞技巧"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493250&idx=1&sn=cd317dbe8c78874a262dce46efcc5cc3": "WEB安全盲点 挖洞中的敏感文件泄漏漏洞与利用手法|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487647&idx=1&sn=0568c440e430ad84c661d9862760d84d": "漏洞利用 | 用友NC IMetaWebService4BqCloud数据源SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)"
 }
