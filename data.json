@@ -15898,5 +15898,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=1&sn=d95257c858f5e767abdabe510f3bac8d": "黑客正在利用 Wing FTP 服务器中的关键 RCE 漏洞(CVE-2025-47812)",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117105&idx=1&sn=a12c60fab95520633a959552231df442": "Apache HTTP Server 2.4.64发布，修复8个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484509&idx=1&sn=058b3c0362ca6c339b1936b23669784e": "JS漏洞挖掘｜分享使用FindSomething联动的挖掘思路",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521812&idx=1&sn=5ecc8850e0fa97af3db87933221ead59": "Critical Wing FTP 服务器漏洞 （CVE-2025-47812） 在野外被积极利用"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521812&idx=1&sn=5ecc8850e0fa97af3db87933221ead59": "Critical Wing FTP 服务器漏洞 （CVE-2025-47812） 在野外被积极利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=3&sn=7ccd92ac4dd522bb9216323ef93d3402": "【安全圈】Google Gemini 被曝安全漏洞：AI 邮件摘要功能可被诱导生成钓鱼信息",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=1&sn=bb6888cc84ad4eba9d87a3ed0137acd8": "APP_KEYs遭暴露，超600款Laravel应用易遭RCE攻击"
 }
