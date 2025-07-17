@@ -15962,5 +15962,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486558&idx=1&sn=e150a399f701a2a8c0b490ea631bfa05": "代码审计-Java项目-反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096390&idx=2&sn=7b2eebc0e92101cb685e047f60813844": "VMware ESXi 和 Workstation 允许执行主机级代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496130&idx=1&sn=f9bf39ffb23c2b16744cffcc11b43ccd": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488103&idx=1&sn=a56fa96efb3c33bba24c7ae3261ce6e7": "web安全 - SQL注入漏洞深度详解"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488103&idx=1&sn=a56fa96efb3c33bba24c7ae3261ce6e7": "web安全 - SQL注入漏洞深度详解",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=3&sn=2ef9f5b48a5e4cc585fa2555af0fd05f": "Git CLI高危任意文件写入漏洞曝光，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=1&sn=ad59955ddfe083c98460da614db3e54e": "【风险通告】Oracle WebLogic Server存在未授权访问漏洞（CVE-2025-30762）",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=2&sn=6c76da8465450c3c79d79e472919de4f": "【风险通告】VMware多产品存在高危漏洞"
 }
