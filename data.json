@@ -16009,5 +16009,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=2&sn=b6d7880ae3a645643d60d6269ee37cb3": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247485298&idx=1&sn=3d314c96442d84fd8ec632d9e5fa0288": "微信3.9 RCE - 补档",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521903&idx=1&sn=1fd7e0366f5859e4c0707a8c6325bcaa": "一键触发漏洞：Oracle云代码编辑器RCE漏洞允许攻击者上传恶意文件",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555499&idx=1&sn=f55fba0243e6ea5428e082e3da30a95f": "渗透测试高手-漏洞挖掘中的隐藏陷阱"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555499&idx=1&sn=f55fba0243e6ea5428e082e3da30a95f": "渗透测试高手-漏洞挖掘中的隐藏陷阱",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492192&idx=1&sn=2204c560a0d68d9237131513a57b33ab": "汉王EFaceGo updateVisitorMapConfig.do任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=1&sn=556ca88745998628df79a141223c15f3": "CVE-2025-25257｜Fortinet FortiWeb SQL注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492628&idx=1&sn=6328dbcbf1e55c176f7181178a068c63": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583863&idx=1&sn=247a5ef8a5281ed71aa75625259ef035": "黑客正在利用Wing FTP服务器的关键RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070714&idx=3&sn=bbdd11d7e9a7fce59dacff4dec6304db": "【安全圈】230万次下载面临威胁：LaRecipe漏洞可能让服务器被完全接管",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果"
 }
