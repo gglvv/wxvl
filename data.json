@@ -16021,5 +16021,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件",
     "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487834&idx=1&sn=ab354dd326ae72b7c8f31e4dc3c183e7": "新手练习向——基于文件上传漏洞获得网站shell权限",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=4&sn=def91ead440f78d348db5fd03eb51f18": "SonicWall SMA设备零日RCE漏洞遭利用，部署OVERSTEP勒索软件",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485894&idx=1&sn=537a76c2aafc5a26acbaa4f8e9d500bf": "【翻译】严重 NVIDIA AI 漏洞：NVIDIA 容器工具包中的三行容器逃逸 (CVE-2025-23266)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485894&idx=1&sn=537a76c2aafc5a26acbaa4f8e9d500bf": "【翻译】严重 NVIDIA AI 漏洞：NVIDIA 容器工具包中的三行容器逃逸 (CVE-2025-23266)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485543&idx=1&sn=27fdaf09140f5ed6a76e8b2a56de657f": "微信安全漏洞，可实现无感上线",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=3&sn=91850abc2376b8b501446d5d75e94086": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489623&idx=1&sn=35978a7efb9a7ed2dffcccade99bc7e2": "你从未听说过的最流行调查软件中的远程代码执行漏洞 (RCE)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=1&sn=3e3b0e6e437b0c67ab0fee641495004c": "WX RCE漏洞"
 }
