@@ -16042,5 +16042,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483950&idx=1&sn=970c288f654adcdc1315375a64c0b374": "汉王e脸通综合管理平台 exportResourceByFilePath.do 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485443&idx=1&sn=b0fc551b2ab431110e845fb515357e84": "中科汇联Easysite反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184307&idx=1&sn=7caac1a81cfffb4dba7ed37940420255": "新漏洞又扎堆？AI：已锁定资产！",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=2&sn=de6210801879808ea31306489a217bbf": "漏洞预警 | 大华ICC智能物联综合管理平台命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=1&sn=050b8e30630112c924e35a27ee30ecd3": "【安全圈】赶快升级！微信Windows端安全漏洞曝光 黑客可执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=2&sn=f472eeedc4d17f52b659a903246f212e": "CVE-2025-48799｜Windows Update 服务本地权限提升漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=1&sn=89febd1aefe606db1792ffd89f135a01": "漏洞预警 | SemCms SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247504063&idx=1&sn=3862aedb5fdb4ae21a2600a1dbbfb8e7": "Kernelhub，一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）"
 }
