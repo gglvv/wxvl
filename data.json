@@ -16064,5 +16064,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495401&idx=1&sn=47e2b01157d168775fb74106c8f7523c": "安全测试效率翻倍！自动化资产测绘+漏洞扫描",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=2&sn=751d846f97b99cfd0a5db9b0943b2a0c": "全球活跃利用中的微软SharePoint新型零日RCE攻击链",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=3&sn=da164a902b33bab2a35b77a492bae665": "7-Zip曝出两个可致内存损坏和拒绝服务的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486006&idx=1&sn=670efdd62c093c7f18dfd3058aab155e": "给开发工程师讲的log4j漏洞原理"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486006&idx=1&sn=670efdd62c093c7f18dfd3058aab155e": "给开发工程师讲的log4j漏洞原理",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=2&sn=6471c0f86eb9b15e01ed8ae126826dee": "针对 NVIDIA AI 容器工具包关键漏洞的 PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490189&idx=1&sn=8931feffa6930193a9832388783f7688": "【漏洞情报】联想电脑管家存在远程命令执行漏洞 | 联想电脑管家RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=1&sn=28783f7f38aca937197c716460e77131": "CNVD漏洞周报2025年第27期",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484302&idx=1&sn=42e0113f5e72ddc92f84826671500353": "【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=2&sn=d05638243e08a279721358efe3e21bb0": "【安全圈】英伟达漏洞致AI与机器人平台面临远程代码执行和数据泄露风险"
 }
