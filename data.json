@@ -16048,5 +16048,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=2&sn=f472eeedc4d17f52b659a903246f212e": "CVE-2025-48799｜Windows Update 服务本地权限提升漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=1&sn=89febd1aefe606db1792ffd89f135a01": "漏洞预警 | SemCms SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247504063&idx=1&sn=3862aedb5fdb4ae21a2600a1dbbfb8e7": "Kernelhub，一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547257&idx=2&sn=6745ead8cbc9f22456ea133e4c77d148": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486586&idx=1&sn=a64429cb46676df4b223b1e98cd3ad4b": "代码审计-thinkphp历史漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487755&idx=1&sn=72978a3fb406810d856d46411a32217c": "Jeecg-boot v2.1.2-v3.0.0 SQL注入漏洞+敏感接口分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484521&idx=1&sn=9ee8b714f11d357e001eb697832c9521": "AI 自主调用 BurpSuite 完成漏洞自动化检测",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486540&idx=1&sn=fad70cc68e4eb00bd89c62f5506a6624": "VRST【红队靶标漏洞储备快速检索工具】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486584&idx=1&sn=b255c35c4fec126d5d6a0863124cba11": "代码审计-ASP.NET项目-未授权访问漏洞"
 }
