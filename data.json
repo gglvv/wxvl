@@ -16039,5 +16039,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518061&idx=1&sn=e5c993ddd41593392c3fadfe8f8fae8a": "OSED = Windows 漏洞利用 + 逆向工程",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=2&sn=18fd68348f0aa5ac8cf42fe1d25cfe00": "CVE-2025-30762｜Oracle WebLogic Server存在未授权访问漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483950&idx=1&sn=970c288f654adcdc1315375a64c0b374": "汉王e脸通综合管理平台 exportResourceByFilePath.do 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483950&idx=1&sn=970c288f654adcdc1315375a64c0b374": "汉王e脸通综合管理平台 exportResourceByFilePath.do 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485443&idx=1&sn=b0fc551b2ab431110e845fb515357e84": "中科汇联Easysite反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184307&idx=1&sn=7caac1a81cfffb4dba7ed37940420255": "新漏洞又扎堆？AI：已锁定资产！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用"
 }
