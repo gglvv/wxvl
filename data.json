@@ -16078,5 +16078,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486584&idx=1&sn=30086c0ff3368412fd572e153864ce3f": "【工具分享】web 日志分析工具 v3.0，支持漏洞日志检测类型包括：sql注入、命令执行、 代码执行、文件上传",
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788823&idx=1&sn=2b397642630b9a70a1623898b1607955": "多年补丁难及终端，固件漏洞持续困扰供应链",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTUwNjgxOQ==&mid=2247484400&idx=1&sn=e831c59dacc0e92729b437568f87437c": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTUwNjgxOQ==&mid=2247484400&idx=1&sn=e831c59dacc0e92729b437568f87437c": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503474&idx=1&sn=7a175af68c7e327480511d253fc5abe6": "雷神众测漏洞周报2025.7.14-2025.7.20",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486523&idx=2&sn=82688b0a491a403cc8e82061b12df048": "契约锁pdfverifier RCE攻防绕过史",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515391&idx=1&sn=c7106be4cceef2d65d657bd4ee313993": "Chrome 在野 0day CVE-2025-6554 浅析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523615&idx=1&sn=1df256011200be03dc2afc80016c587e": "固件开发和更新缺陷导致漏洞多年难修，供应链安全深受其害",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501054&idx=2&sn=0e1504b211c27221500053460b6e5931": "联想电脑管家存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247501005&idx=1&sn=9239c416a190e96da89393e50c5f3cd5": "篇 23：一个十年前的漏洞，正在威胁全球电网安全",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTYyNTg3Mg==&mid=2247493021&idx=1&sn=2986e19ca3445c37cdd06a577ae7faea": "【星闻周报】起亚车机系统曝安全漏洞！黑客竟能远程操控"
 }
